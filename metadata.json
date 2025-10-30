@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Travel Planner",
+  "description": "An intelligent travel planner app that generates personalized daily itineraries for users based on their interests, available days, and location. The app integrates with Google Maps to display routes and attractions.",
+  "requestFramePermissions": []
+}
