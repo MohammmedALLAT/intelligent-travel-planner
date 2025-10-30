@@ -31,13 +31,21 @@ The app follows a modular structure:
 
 /
 ├─ components/ # Reusable UI components (cards, modals, forms)
+
 ├─ context/ # State and context management
+
 ├─ services/ # Core logic (itinerary generation, API calls)
+
 ├─ constants.ts # Configuration and static constants
+
 ├─ types.ts # TypeScript definitions and interfaces
+
 ├─ App.tsx # Main application entry
+
 ├─ index.tsx # Renders the app to the DOM
+
 ├─ vite.config.ts # Build configuration
+
 └─ metadata.json # App metadata
 
 yaml
